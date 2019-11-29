@@ -6,7 +6,7 @@
 		
 	//typed activate
     $('.header-inner h6').typed({
-        strings: ["Grapich Designer", "UI/UX  Designer", "Photography"],
+        strings: ["Photography", "JAVA" , "guitar" ],
         loop: true,
         startDelay: 1000,
         backDelay: 1000,
@@ -17,10 +17,10 @@
     });
 		
 	/*-- circle progress activate --*/
-		CircleProg('.65','#00B9E4',$('#circle-1'));
-		CircleProg('.75','#DF457E',$('#circle-2'));
-		CircleProg('.85','#2FD4BE',$('#circle-3'));
-		CircleProg('.95','#F28055',$('#circle-4'));
+		CircleProg('.35','#00B9E4',$('#circle-1'));
+		CircleProg('.65','#DF457E',$('#circle-2'));
+		CircleProg('.20','#2FD4BE',$('#circle-3'));
+		CircleProg('.40','#F28055',$('#circle-4'));
 		
 		
 	/*--- function for Circle progreass var activation ---*/
